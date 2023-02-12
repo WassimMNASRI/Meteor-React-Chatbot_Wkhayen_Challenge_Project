@@ -1,0 +1,33 @@
+{
+  "id": "bfed2382-8442-4135-b7f7-7850eaa42292",
+  "name": "Made_with",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Made",
+      "synonyms": [
+        "Made"
+      ]
+    },
+    {
+      "value": "Creation",
+      "synonyms": [
+        "Creation"
+      ]
+    },
+    {
+      "value": "created with",
+      "synonyms": [
+        "created with"
+      ]
+    },
+    {
+      "value": "Programmed",
+      "synonyms": [
+        "Programmed"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

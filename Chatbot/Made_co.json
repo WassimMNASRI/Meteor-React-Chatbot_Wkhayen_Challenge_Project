@@ -1,0 +1,134 @@
+{
+  "id": "706febd0-4771-4d38-9b40-4fc3520e8bfe",
+  "name": "Made_co",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3c5552dc-8a85-41fa-a088-78ac3f8200c9",
+          "required": true,
+          "dataType": "@Made_with",
+          "name": "Made_with",
+          "value": "$Made_with",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "It was made with C, C++, JavaScript"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520760577,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "ab4843cc-dba9-47bd-be6b-d9231c362283",
+      "data": [
+        {
+          "text": "programmed?",
+          "alias": "Made_with",
+          "meta": "@Made_with",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1520760577,
+      "isAuto": false
+    },
+    {
+      "id": "5cf8f372-fe15-487a-adf4-df0b14075bb5",
+      "data": [
+        {
+          "text": "Programmed",
+          "alias": "Made_with",
+          "meta": "@Made_with",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1520760577,
+      "isAuto": false
+    },
+    {
+      "id": "f470b025-0524-4567-91cc-2c9246dd3716",
+      "data": [
+        {
+          "text": "made?",
+          "alias": "Made_with",
+          "meta": "@Made_with",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 3,
+      "updated": 1520760577,
+      "isAuto": false
+    },
+    {
+      "id": "012d7971-93bd-46d0-8779-9c92cfe0bbc7",
+      "data": [
+        {
+          "text": "Creation",
+          "alias": "Made_with",
+          "meta": "@Made_with",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1520760577,
+      "isAuto": false
+    },
+    {
+      "id": "9d407f6c-c9e2-473c-927c-afd799d0b123",
+      "data": [
+        {
+          "text": "created with",
+          "alias": "Made_with",
+          "meta": "@Made_with",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1520760577,
+      "isAuto": false
+    },
+    {
+      "id": "fecd6c2c-a55b-4892-8d95-e9536112eb3b",
+      "data": [
+        {
+          "text": "Made",
+          "alias": "Made_with",
+          "meta": "@Made_with",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1520760577,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

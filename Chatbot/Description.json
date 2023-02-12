@@ -1,0 +1,103 @@
+{
+  "id": "3e020a06-e65b-47a3-886b-5d4cea28141e",
+  "name": "Description",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a78b9420-4401-43ea-a59d-f4b095195fc4",
+          "required": false,
+          "dataType": "@History",
+          "name": "History",
+          "value": "$History",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": [
+            "JS runtime built on chrome's V8 JS engine",
+            "JS running on the server",
+            "Used to build powerful, fast & scalable web App",
+            "Node JS was created in 27 mai 2009",
+            "The actual version now is  9.7.1",
+            "Event-driven programming language",
+            "It was made with C, C++, JavaScript"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520758539,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "2ae36ad4-0466-4c18-8f1c-cea3fd6cc2f0",
+      "data": [
+        {
+          "text": "nodejs",
+          "alias": "History",
+          "meta": "@History",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1520758480,
+      "isAuto": false
+    },
+    {
+      "id": "e3c58b6e-38d5-4a2c-bde5-51966e3543a1",
+      "data": [
+        {
+          "text": "Node js",
+          "alias": "History",
+          "meta": "@History",
+          "userDefined": true
+        },
+        {
+          "text": " description"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1520758480,
+      "isAuto": false
+    },
+    {
+      "id": "f6df4d92-21b3-4183-a79f-9488e4083ef2",
+      "data": [
+        {
+          "text": "What is "
+        },
+        {
+          "text": "Nodejs ?",
+          "alias": "History",
+          "meta": "@History",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1520758480,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

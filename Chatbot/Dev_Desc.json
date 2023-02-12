@@ -1,0 +1,89 @@
+{
+  "id": "200d8fee-54d0-4c3f-b7cd-c4c3fd977f3d",
+  "name": "Dev_Desc",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "45942e04-e0fd-409c-8d20-f7a5a6135f76",
+          "required": false,
+          "dataType": "@Developper",
+          "name": "Developper",
+          "value": "$Developper",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Ryan Lienhart Dahl and Node JS partners"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520759828,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "4d1c96c0-b207-401b-8d94-125353e80c48",
+      "data": [
+        {
+          "text": "developper?",
+          "alias": "Developper",
+          "meta": "@Developper",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1520759828,
+      "isAuto": false
+    },
+    {
+      "id": "57b3cec1-e24c-4bae-9c64-fbfdf4b17b22",
+      "data": [
+        {
+          "text": "Developper",
+          "alias": "Developper",
+          "meta": "@Developper",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "updated": 1520759828,
+      "isAuto": false
+    },
+    {
+      "id": "b8c4806c-a358-48f2-9986-aeedfb8328b0",
+      "data": [
+        {
+          "text": "devlppr",
+          "alias": "Developper",
+          "meta": "@Developper",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1520759828,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

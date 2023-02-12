@@ -1,0 +1,9 @@
+{
+    "public" : {
+        "test": "Hello"
+    },
+
+    "private" : {
+        "ptest": "Welcome to our serveur"
+    }
+}

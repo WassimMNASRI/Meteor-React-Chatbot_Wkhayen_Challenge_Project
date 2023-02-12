@@ -1,0 +1,56 @@
+{
+  "id": "405c5fdc-58e5-4f9e-9fb6-5f9422c3cf20",
+  "name": "History",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Creation_Date",
+      "synonyms": [
+        "Creation_Date",
+        "Node JS was created in 27 mai 2009"
+      ]
+    },
+    {
+      "value": "Last_version",
+      "synonyms": [
+        "Last_version",
+        "The actual version now is  9.7.1"
+      ]
+    },
+    {
+      "value": "Type",
+      "synonyms": [
+        "Type",
+        "Event-driven programming language"
+      ]
+    },
+    {
+      "value": "Developper",
+      "synonyms": [
+        "Developper",
+        "Ryan Lienhart Dahl and Node JS partners"
+      ]
+    },
+    {
+      "value": "Programmed_with",
+      "synonyms": [
+        "Programmed_with",
+        "It was made with C, C++, JavaScript"
+      ]
+    },
+    {
+      "value": "Nodejs ?",
+      "synonyms": [
+        "Nodejs ?"
+      ]
+    },
+    {
+      "value": "Node js",
+      "synonyms": [
+        "Node js"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

@@ -1,0 +1,89 @@
+{
+  "id": "025f6258-ee0c-405f-9f0f-1b1279ba424b",
+  "name": "The_type",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "44c53b18-486c-4526-a333-ee35f85ee835",
+          "required": false,
+          "dataType": "@Type",
+          "name": "Type",
+          "value": "$Type",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Event-driven programming language"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520760908,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "ce9bf9d4-2e59-49be-a5ff-f902590450fa",
+      "data": [
+        {
+          "text": "Type",
+          "alias": "Type",
+          "meta": "@Type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 2,
+      "updated": 1520760856,
+      "isAuto": false
+    },
+    {
+      "id": "5d3951bb-f37c-43e9-a992-f4e8825a39fc",
+      "data": [
+        {
+          "text": "Type?",
+          "alias": "Type",
+          "meta": "@Type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1520760856,
+      "isAuto": false
+    },
+    {
+      "id": "49ecad8c-a450-4436-bb9c-cca92652211e",
+      "data": [
+        {
+          "text": "the type?",
+          "alias": "Type",
+          "meta": "@Type",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1520760856,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

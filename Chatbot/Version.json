@@ -1,0 +1,39 @@
+{
+  "id": "ed55be6c-e7ef-486b-9571-061c8f473946",
+  "name": "Version",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "lastest version?",
+      "synonyms": [
+        "lastest version?"
+      ]
+    },
+    {
+      "value": "latest version",
+      "synonyms": [
+        "latest version"
+      ]
+    },
+    {
+      "value": "version?",
+      "synonyms": [
+        "version?"
+      ]
+    },
+    {
+      "value": "version",
+      "synonyms": [
+        "version"
+      ]
+    },
+    {
+      "value": "Latest version?",
+      "synonyms": [
+        "Latest version?"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

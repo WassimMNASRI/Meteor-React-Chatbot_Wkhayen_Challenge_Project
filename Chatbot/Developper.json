@@ -1,0 +1,21 @@
+{
+  "id": "997d7545-c199-46b8-9a4f-2ba5b183ab87",
+  "name": "Developper",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "Developper",
+      "synonyms": [
+        "Developper"
+      ]
+    },
+    {
+      "value": "devlppr",
+      "synonyms": [
+        "devlppr"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

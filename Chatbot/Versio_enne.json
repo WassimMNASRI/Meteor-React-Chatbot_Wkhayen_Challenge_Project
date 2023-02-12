@@ -1,0 +1,105 @@
+{
+  "id": "3872df08-f282-43a6-ac30-c19ad093cc82",
+  "name": "Versio_enne",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "80d0f4af-69db-4f51-a34d-1afd921b20a6",
+          "required": false,
+          "dataType": "@Version",
+          "name": "Version",
+          "value": "$Version",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "9.7.1 (2 mars 2018)"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "cortanaCommand": {
+    "navigateOrService": "NAVIGATE",
+    "target": ""
+  },
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520761443,
+  "fallbackIntent": false,
+  "events": [],
+  "userSays": [
+    {
+      "id": "bb85fa03-087b-4f7a-a226-36eb92c2a30b",
+      "data": [
+        {
+          "text": "Latest version?",
+          "alias": "Version",
+          "meta": "@Version",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1520761443,
+      "isAuto": false
+    },
+    {
+      "id": "1f1f9a9b-3e25-41bc-9b08-af1f67d500c7",
+      "data": [
+        {
+          "text": "version?",
+          "alias": "Version",
+          "meta": "@Version",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1520761443,
+      "isAuto": false
+    },
+    {
+      "id": "d5eab832-b454-4df7-883c-64daf278e8b2",
+      "data": [
+        {
+          "text": "version",
+          "alias": "Version",
+          "meta": "@Version",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 0,
+      "updated": 1520761443,
+      "isAuto": false
+    },
+    {
+      "id": "d23439c3-538a-4b95-949e-e02732db74a0",
+      "data": [
+        {
+          "text": "latest version",
+          "alias": "Version",
+          "meta": "@Version",
+          "userDefined": true
+        }
+      ],
+      "isTemplate": false,
+      "count": 1,
+      "updated": 1520761443,
+      "isAuto": false
+    }
+  ],
+  "followUpIntents": [],
+  "templates": []
+}

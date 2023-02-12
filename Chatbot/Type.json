@@ -1,0 +1,15 @@
+{
+  "id": "b177ee8b-7f69-460b-a483-2712fe8ddeed",
+  "name": "Type",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "The Type?",
+      "synonyms": [
+        "The Type?"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}
